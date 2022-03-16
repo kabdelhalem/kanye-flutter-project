@@ -1,6 +1,8 @@
 # kanye
 
-A new Flutter project.
+This is a Flutter application that will choose a Kanye song based on your mood.
+
+F Skete.
 
 ## Getting Started
 
